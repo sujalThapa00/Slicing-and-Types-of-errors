@@ -1,0 +1,5 @@
+height = float(input("Enter your height in feet: "))
+if height >= 6:
+    print("You are Selected.")
+else:
+    print("You are Not Selected.")
